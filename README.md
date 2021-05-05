@@ -1,4 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
 <h1 align="center">Hi👋🏻, I'm Pankaj Kumar</h1>
 <h3 align="center">A Passionate Gamer and Engineer from IIITD </h3>
 
