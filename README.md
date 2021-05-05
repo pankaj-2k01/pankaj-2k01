@@ -1,3 +1,4 @@
+<h3 align="left">Languages and Tools:</h3>
 <h1 align="center">Hi👋🏻, I'm Pankaj Kumar</h1>
 <h3 align="center">A Passionate Gamer and Engineer from IIITD </h3>
 
@@ -9,7 +10,7 @@
 
 <a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:pankajkumar04052011@gmail.com" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/gmail.svg" alt="gmail" height="30" width="40" ></a>
 <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/pankaj-kumar2k01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/pankaj_2k01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/pankaj_2k01" target="_blank"><img align="center" src="./i.svg" alt="instagram" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" href="https://codeforces.com/profile/AvengerPankaj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIiAlA87OFiTcD5RivLCqEg" target="_blank"><img align="center" src="https://www.flaticon.com/free-icon/youtube_1384060" alt="youtube" height="30" width="40" /></a>
 </p>
