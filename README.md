@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Gamer and Engineer from IIITD </h3>
 <h4 align="left">Check out my<a target= "_blank" rel="noopener noreferrer" href="https://pankaj-2k01.github.io/" target="_blank">  Portfolio</a></h4> 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-2k01&label=Profile%20views&color=f53f2b&style=plastic" alt="pabnkaj-2k01" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
